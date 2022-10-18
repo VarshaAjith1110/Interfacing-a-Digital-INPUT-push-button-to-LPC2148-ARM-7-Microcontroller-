@@ -183,8 +183,7 @@ int main(void)
 	return 0;
 }
 ```
-### Result :
-Interfacing a digital output with ARM microcontroller is executed 
+ 
 
 ### Output screen shots :
 ![image](t1.png)
@@ -192,5 +191,6 @@ Interfacing a digital output with ARM microcontroller is executed
 ![image](t2.png)
 
 
-
+### Result :
+Interfacing a digital output with ARM microcontroller is executed 
 
